@@ -7,7 +7,7 @@ API do Formaplus (feita em 2022) com Flask.
 Click the button below to deploy the application directly to your Heroku
 account.
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/wadsongarbes/formaplus-api/tree/heroku)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/wadsongarbes/formaplus-api/)
 
 ## Deploy on your Computer
 
