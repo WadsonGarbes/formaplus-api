@@ -17,7 +17,7 @@ Follow these steps if you want to run this application on your computer, either
 in a Docker container or as a standalone Python application.
 
 ```bash
-git clone https://github.com/miguelgrinberg/microblog-api
+git clone https://github.com/wadsongarbes/formaplus-api
 cd formaplus-api
 cp .env.example .env
 ```
