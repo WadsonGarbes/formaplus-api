@@ -1,0 +1,12 @@
+Prezado {{ username }},
+
+Para resetar sua senha clique no seguinte link:
+
+{{ url }}
+
+se você não solicitou uma nova senh, pode ignorar esta mensagem.
+Atenciosamente,
+
+Equipe Formaplus
+
+Atenção: Não responda este email. Não monitoramos a caixa de entrada.
