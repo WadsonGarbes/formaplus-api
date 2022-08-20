@@ -1,6 +1,6 @@
 # Formaplus-API
 
-API do Formaplus (feita em 2022) com Flask.
+API do Formaplus (feita em 2022) com Flask (baseado na microblog-api de Miguel Grinberg).
 
 ## Deploy to Heroku
 
