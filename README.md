@@ -1,4 +1,4 @@
-# microblog-api
+# Formaplus-API
 
 API do Formaplus (feita em 2022) com Flask.
 
