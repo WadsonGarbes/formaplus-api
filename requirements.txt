@@ -92,6 +92,8 @@ webargs==8.1.0
     # via apifairy
 werkzeug==2.1.0
     # via flask
+    
+psycopg2
 
 # The following packages are considered to be unsafe in a requirements file:
 # setuptools
